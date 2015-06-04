@@ -2,10 +2,11 @@
 
 * Bullet 1
 * Bullet 2
+* Bullet 3
 
-*italics*
+*italics* "and not"
 
-**Really BOLD**
+**Really REALLY BOLD**
 
 [GOOGLE](http://www.google.com)
 
